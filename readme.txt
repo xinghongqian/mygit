@@ -3,5 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 增加一行 再修改
 远程库push
-战一下--no-ff方式的git merge
+普通合并
+--实战一下--no-ff方式的git merge
 
