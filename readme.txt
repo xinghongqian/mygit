@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 普通合并修改
 实战一下--no-ff方式的git merge
 
+listdev	 aaaa
